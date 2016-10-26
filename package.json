@@ -4,7 +4,7 @@
   "description": "me",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "abouthiroppy <git@about-hiroppy.com> (http://about-hiroppy.com)",
   "license": "MIT",
