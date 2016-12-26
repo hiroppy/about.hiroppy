@@ -8,8 +8,10 @@ module.exports = {
   company: 'dwango',
   sns: {
     twitter: 'about_hiroppy',
+    medium: 'about_hiroppy',
     github: 'abouthiroppy',
     facebook: 'abouthiroppy',
-    instagram: 'about_hiroppy'
+    instagram: 'about_hiroppy',
+    speakerDeck: 'abouthiroppy'
   }
 };
